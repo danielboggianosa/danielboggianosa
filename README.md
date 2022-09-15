@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Daniel Boggiano 👋
+### I'm a **software engineer** 👨‍💻 specialized in responsive **WEB UI** 📱💻🖥
+You can find my complete resume [here](https://cv.danielboggiano.com)
 
 <!--
 **danielboggianosa/danielboggianosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
