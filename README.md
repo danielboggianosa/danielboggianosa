@@ -4,7 +4,7 @@ You can find my complete resume [here](https://cv.danielboggiano.com)
 ### YouTube
 Take a look to my chanell where I share programming advice and tutorial
 
-@[Youtube](https://www.youtube.com/watch?v=kYD8mOg5ng)
+@[youtube](kYD8mOg5ng|https://www.youtube.com/watch?v=kYD8mOg5ng)
 
 <!--
 **danielboggianosa/danielboggianosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
