@@ -1,10 +1,10 @@
 ### Hi there, my name is Daniel Boggiano 👋
 ### I'm a **software engineer** 👨‍💻 specialized in responsive **WEB UI** 📱💻🖥
-You can find my complete resume [here](https://cv.danielboggiano.com)
+You can find my complete resume [here](https://www.linkedin.com/in/daniel-boggiano-saenz/)
 ### YouTube
 Take a look to my chanell where I share programming advice and tutorial
 
-@[youtube](https://www.youtube.com/watch?v=kYD8mOg5ng)
+@[youtube](https://www.youtube.com/@DanielBoggiano)
 
 <!--
 **danielboggianosa/danielboggianosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
