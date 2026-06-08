@@ -1,6 +1,6 @@
 ### Hi there, my name is Daniel Boggiano 👋
 ### I'm a **software engineer** 👨‍💻 specialized in responsive **WEB UI** 📱💻🖥
-You can find my complete resume [here](https://www.linkedin.com/in/daniel-boggiano-saenz/)
+You can find my complete resume [here](https://www.linkedin.com/in/danielboggiano/)
 ### YouTube
 Take a look to my chanell where I share programming advice and tutorial
 
